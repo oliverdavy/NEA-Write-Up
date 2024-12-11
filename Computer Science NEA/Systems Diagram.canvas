@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"9006a2f3bfee88e0","x":-40,"y":-360,"width":250,"height":60,"type":"text","text":"Metronome and Practice Tracker"},
+		{"id":"adc365d5846c9723","x":-200,"y":-240,"width":250,"height":60,"type":"text","text":"Metronome"},
+		{"id":"bd63053dfbc99f2b","x":-450,"y":-20,"width":250,"height":60,"type":"text","text":"Presets"},
+		{"id":"02a1efbf62651730","x":-260,"y":180,"width":250,"height":60,"type":"text","text":"Load Preset"},
+		{"id":"2632387d1f4c926d","x":-260,"y":80,"width":250,"height":60,"type":"text","text":"Save Preset"},
+		{"id":"46d0121d655ea507","x":-10,"y":-20,"width":250,"height":60,"type":"text","text":"Start/Stop"},
+		{"id":"fd6c8e9bdd949169","x":180,"y":80,"width":250,"height":60,"type":"text","text":"Lights"},
+		{"id":"1851acff0adb81b9","x":180,"y":180,"width":250,"height":60,"type":"text","text":"Update Lights"}
+	],
+	"edges":[
+		{"id":"9dd65ce5abe431f1","fromNode":"9006a2f3bfee88e0","fromSide":"bottom","toNode":"adc365d5846c9723","toSide":"top"},
+		{"id":"086a1c75e645fc09","fromNode":"adc365d5846c9723","fromSide":"bottom","toNode":"bd63053dfbc99f2b","toSide":"top"},
+		{"id":"68c0f7f4d572ae47","fromNode":"bd63053dfbc99f2b","fromSide":"bottom","toNode":"2632387d1f4c926d","toSide":"left"},
+		{"id":"374cd7d10622a9c4","fromNode":"bd63053dfbc99f2b","fromSide":"bottom","toNode":"02a1efbf62651730","toSide":"left"}
+	]
+}
