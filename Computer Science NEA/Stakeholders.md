@@ -1,4 +1,7 @@
+%%
+#Complete
 #Analysis
+%%
 # Stakeholders
 
 I have identified three stakeholders for my product: musicians, music students, and music teachers. 

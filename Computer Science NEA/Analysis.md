@@ -1,6 +1,7 @@
+%%
 #Incomplete
 #Analysis
-
+%%
 %%
  - [x] add metronome online images
  - [ ] add google metronome image
@@ -8,7 +9,9 @@
  - [ ] rewrite musicalog section
  - [ ] add practice time image
  - [ ] rewrite my ideas
+ - [x] complete features
  - [ ] complete limitations
+ - [x] complete computational methods
  - [ ] complete hardware software requirements
  - [ ] complete success criteria
 %%

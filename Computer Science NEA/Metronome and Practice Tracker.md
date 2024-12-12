@@ -1,4 +1,7 @@
+%%
+#Incomplete
 #Home
+%%
 # Metronome and Practice Tracker
 
 ## Contents  

@@ -1,4 +1,7 @@
+%%
+#complete
 #Analysis
+%%
 # Computational Methods
 
 This project is suitable for being solved computationally for several reasons. 

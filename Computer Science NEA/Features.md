@@ -1,4 +1,7 @@
+%%
+#complete
 #Analysis
+%%
 # Features
 
 The features to be added will have an essentiality level assigned. 
@@ -14,9 +17,9 @@ This is also affected by what stakeholders think is essential and what is useful
 | Feature                                             | Description                                                                                        | Justification | Essentiality level | Source                                        |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------- | ------------------ | --------------------------------------------- |
 | Start/Stop                                          | Ability to start and stop the metronome                                                            |               | High               | Existing Systems, Stakeholders, My ideas      |
-| BPM display                                         | Shows the current BPM of the metronome.                                                            |               | High               | Existing Systems, Stakeholders, My ideas      |
+| BPM display                                         | Shows the current BPM of the metronome                                                             |               | High               | Existing Systems, Stakeholders, My ideas      |
 | Adjust BPM                                          | Ability to adjust the BPM of the metronome                                                         |               | High               | Existing Systems, Stakeholders, My ideas      |
-| Audio feedback [find a good way to say click track] | Make a noise on every beat                                                                         |               | High               | Existing Systems, Stakeholders, My ideas      |
+| Audio feedback (find a good way to say click track) | Make a noise on every beat                                                                         |               | High               | Existing Systems, Stakeholders, My ideas      |
 | Visual feedback                                     | Visual indicator of BPM e.g. lights                                                                |               | High               | Existing Systems, Stakeholders, My ideas      |
 | Adjust time signatures                              | Ability to change the length and amount of beats                                                   |               | Medium             | Most Existing Systems, Stakeholders, My ideas |
 | Tap BPM                                             | Ability to set BPM by tapping at the desired speed                                                 |               | Low                | Existing Systems, Stakeholders                |

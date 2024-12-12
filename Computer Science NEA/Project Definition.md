@@ -1,4 +1,7 @@
+%%
+#complete
 #Analysis
+%%
 # Project Definition
 
 In the study, teaching, and performance of music the ability to practice effectively and efficiently is vital to success. A tool used for centuries is the metronome, a simple tool to create a consistent beat at a variable tempo. As well as this, one of the best ways to accelerate progress in practice is to use a practice log, a tool well renowned for its effectiveness throughout learning which helps learners keep a consistent track of what has been achieved, how it has been achieved, and where to improve next.  

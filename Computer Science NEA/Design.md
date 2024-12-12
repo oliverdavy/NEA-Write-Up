@@ -3,7 +3,7 @@
 
 %%
 - [x] add systems diagrams
-- [ ] create interface design
+- [ ] finish interface design
 - [ ] create validation of inputs
 - [ ] create modules and processes based off of the systems diagram
 - [ ] create algorithms
